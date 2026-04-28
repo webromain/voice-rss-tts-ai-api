@@ -1,2 +1,2 @@
 # voice-rss-tts-ai-api
-VoiceRSS Text To Speach API
+VoiceRSS Text To Speech API
